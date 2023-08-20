@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-20T21:12:04 IST" name="Default suite" finished-at="2023-08-20T21:12:30 IST" duration-ms="25699">
+    <groups>
+    </groups>
+    <test started-at="2023-08-20T21:12:04 IST" name="Default test" finished-at="2023-08-20T21:12:30 IST" duration-ms="25699">
+      <class name="Testscripts.loginandLogout">
+        <test-method is-config="true" signature="config_BS()[pri:0, instance:Testscripts.loginandLogout@50eac852]" started-at="2023-08-20T21:12:04 IST" name="config_BS" finished-at="2023-08-20T21:12:04 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BS -->
+        <test-method is-config="true" signature="config_BC()[pri:0, instance:Testscripts.loginandLogout@50eac852]" started-at="2023-08-20T21:12:04 IST" name="config_BC" finished-at="2023-08-20T21:12:20 IST" duration-ms="15485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method signature="login()[pri:0, instance:Testscripts.loginandLogout@50eac852]" started-at="2023-08-20T21:12:20 IST" name="login" finished-at="2023-08-20T21:12:30 IST" duration-ms="9745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="config_AC()[pri:0, instance:Testscripts.loginandLogout@50eac852]" started-at="2023-08-20T21:12:30 IST" name="config_AC" finished-at="2023-08-20T21:12:30 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AC -->
+        <test-method is-config="true" signature="cofig_AS()[pri:0, instance:Testscripts.loginandLogout@50eac852]" started-at="2023-08-20T21:12:30 IST" name="cofig_AS" finished-at="2023-08-20T21:12:30 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofig_AS -->
+      </class> <!-- Testscripts.loginandLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
